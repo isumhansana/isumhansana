@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isum Hansana</h1>
-- 🌱 I’m currently learning **Flutter**
+
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Python**
 
