@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isum Hansana</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isumhansana&label=Profile%20Views&color=0e75b6&style=flat" alt="isumhansana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isumhansana" alt="isumhansana" /></a> </p>
 
@@ -20,6 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isumhansana&show_icons=true&locale=en" alt="isumhansana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isumhansana&" alt="isumhansana" /></p>
-<br/>
-<hr style="color:grey;">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=isumhansana&label=Profile%20Views&color=0e75b6&style=flat" alt="isumhansana" /> </p>
