@@ -21,6 +21,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isumhansana&" alt="isumhansana" /></p>
 
-<hr style="background-color:white; height:0.5px;">
+<hr style="background-color:gray;">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=isumhansana&label=Profile%20Views&color=0e75b6&style=flat" alt="isumhansana" /> </p>
